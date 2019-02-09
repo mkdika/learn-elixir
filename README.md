@@ -8,8 +8,8 @@ I am using:
 
 - [Elixir 1.8](https://elixir-lang.org/)
 - [Erlang/OTP 21](https://www.erlang.org/)
+- [Phoenix Framework 1.4](https://phoenixframework.org/)
 - [Ubuntu 18.04](http://releases.ubuntu.com/18.04/) x64-bit
-
 
 ## Running Elixir code
 
@@ -17,10 +17,10 @@ I am using:
 
 Using Elixir interactive REPL, at terminal run: `iex`. To exit hit `Ctrl+c` twice.
 
-
 ## Reference
 
 - [Elixir Docs](https://elixir-lang.org/docs.html)
+- [Phoenix Framework Docs](https://hexdocs.pm/phoenix/Phoenix.html)
 
 ## Copyright and License
 
