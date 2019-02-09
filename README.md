@@ -11,6 +11,13 @@ I am using:
 - [Ubuntu 18.04](http://releases.ubuntu.com/18.04/) x64-bit
 
 
+## Running Elixir code
+
+### Using IEX
+
+Using Elixir interactive REPL, at terminal run: `iex`. To exit hit `Ctrl+c` twice.
+
+
 ## Reference
 
 - [Elixir Docs](https://elixir-lang.org/docs.html)
