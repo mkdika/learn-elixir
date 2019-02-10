@@ -21,6 +21,7 @@ Using Elixir interactive REPL, at terminal run: `iex`. To exit hit `Ctrl+c` twic
 
 - [Elixir Docs](https://elixir-lang.org/docs.html)
 - [Phoenix Framework Docs](https://hexdocs.pm/phoenix/Phoenix.html)
+- [Erlang Built-in Type-check Functions](http://erlang.org/doc/man/erlang.html#is_atom-1)
 
 ## Copyright and License
 
