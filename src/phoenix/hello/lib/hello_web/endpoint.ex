@@ -40,7 +40,7 @@ defmodule HelloWeb.Endpoint do
   plug Plug.Session,
     store: :cookie,
     key: "_hello_key",
-    signing_salt: "RwEwac5Y"
+    signing_salt: "Xq8ev5r+"
 
   plug HelloWeb.Router
 end
